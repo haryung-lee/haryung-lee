@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Personal project
+1. todomate
+https://haryung-lee.github.io/personal-project/
