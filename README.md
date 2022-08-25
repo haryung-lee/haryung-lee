@@ -37,7 +37,6 @@ Software Maestro 13th (2022/04 ~ ing)
 BLOG: https://haryung-lee.github.io/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)](https://solved.ac/halang/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryung-lee&show_icons=true&theme=dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryung-lee&layout=compact)](https://github.com/haryung-lee/github-readme-stats)
 
