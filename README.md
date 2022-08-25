@@ -1,11 +1,24 @@
-## Hi there 👋 
-- I'm FRONT-END Developer
+<div align=center>
 
-## 👩🏻‍💻 Career
-- Incheon National University (2020/03 ~ ing)
-- Software Maestro 13th (2022/04 ~ ing)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi!%20I'm%20Halang&fontSize=50&fontAlign=70)
 
-## 🔨 Stack
+
+**👋 Hi there**
+<br>
+I'm FRONT-END Developer
+
+<br>
+
+**👩🏻‍💻 Career**
+<br>
+Incheon National University (2020/03 ~ ing)
+<br>
+Software Maestro 13th (2022/04 ~ ing)
+
+<br>
+
+**🔨 Stack**
+<br>
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -17,7 +30,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ✨ Contact me
-[BLOG](https://haryung-lee.github.io/)
+<br>
+
+**✨ Contact me**
+<br>
+BLOG: https://haryung-lee.github.io/
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)](https://solved.ac/halang/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryung-lee&show_icons=true&theme=dark)
+
+</div>
