@@ -34,8 +34,7 @@ Software Maestro 13th (2022/04 ~ ing)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haryung-lee&theme=slateorange" />
-<img src="https://github-readme-stats.vercel.app/api?username=haryung-lee&theme=slateorange&hide=issues&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=haryung-lee&theme=slateorange&hide=issues&count_private=true&kill_cache=1" />
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)
 
