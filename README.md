@@ -34,9 +34,6 @@ Software Maestro 13th (2022/04 ~ ing)
 
 <div align="center">
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haryung-lee&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haryung-lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=haryung-lee&theme=nord&hide=issues&count_private=true" />
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)
