@@ -34,10 +34,11 @@ Software Maestro 13th (2022/04 ~ ing)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haryung-lee" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haryung-lee&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=haryung-lee&theme=nord&hide=issues&count_private=true" />
-  
+
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)
+
 </div>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyung-lee&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
