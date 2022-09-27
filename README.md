@@ -45,7 +45,7 @@ Software Maestro 13th (2022/04 ~ ing)
 
 ## ✨ Contact me
 <br>
-BLOG: https://haryung-lee.github.io/
+BLOG: https://velog.io/@lhr4884
   
 </div>
 
