@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=DD921F&height=200&section=header&text=Hi!%20I'm%20Halang&fontSize=50&animation=scaleIn)
 
-
 # 👋 Hi there
 Blog: [halang blog](https://velog.io/@lhr4884) <br>
 Study Blog: [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)
@@ -22,10 +21,6 @@ Study Blog: [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 
@@ -34,7 +29,7 @@ Study Blog: [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharyung-lee&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 [![wakatime](https://wakatime.com/badge/user/02d79381-005e-489b-b7f0-5fdf9dc2a088.svg)](https://wakatime.com/@02d79381-005e-489b-b7f0-5fdf9dc2a088)
 
-<img src="https://github-readme-stats.vercel.app/api?username=haryung-lee&theme=slateorange&hide=issues&count_private=true&kill_cache=1" /> ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=halang)
 
 
 
