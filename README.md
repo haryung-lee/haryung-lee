@@ -6,7 +6,7 @@ Blog: [halang blog](https://velog.io/@lhr4884) <br>
 Study Blog: [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)
 
 ### Career
-🔥 FreeD soft Front-end Engineer (2023/01 ~ ing) <br>
+🔥 FreeD soft Intern (2023/01 ~ 2023/02) <br>
 👩‍💻 Software Maestro 13th (2022/04 ~ 2022/11) <br>
 🏫 Incheon National University (2020/03 ~ ing)
 
