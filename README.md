@@ -3,7 +3,6 @@
 
 # 👋 Hi there
 Blog: [halang blog](https://velog.io/@lhr4884) <br>
-Study Blog: [CS Ping Ping](https://blog-cs-pingping.vercel.app/docs/intro)
 
 ### Career
 🔥 FreeD soft Intern (2023/01 ~ 2023/02) <br>
