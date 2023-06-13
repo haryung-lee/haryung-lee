@@ -1,13 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=DD921F&height=200&section=header&text=Hi!%20I'm%20Halang&fontSize=50&animation=scaleIn)
 
-# 👋 Hi there
 Blog: [halang blog](https://velog.io/@lhr4884) <br>
 
-### Career
-🔥 FreeD soft Intern (2023/01 ~ 2023/02) <br>
-👩‍💻 Software Maestro 13th (2022/04 ~ 2022/11) <br>
-🏫 Incheon National University (2020/03 ~ ing)
+Nexters 13th (2023/06 ~ ing) <br>
+FreeD soft Intern (2023/01 ~ 2023/02) <br>
+Software Maestro 13th (2022/04 ~ 2022/11) <br>
+Incheon National University (2020/03 ~ ing)
 
 
 ### Stack
@@ -18,7 +17,6 @@ Blog: [halang blog](https://velog.io/@lhr4884) <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
