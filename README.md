@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=DD921F&height=200&section=header&text=Hi!%20I'm%20Halang&fontSize=50&animation=scaleIn)
 
-Blog: [halang blog](https://velog.io/@lhr4884) <br>
+[velog](https://velog.io/@lhr4884) 
+[blog](https://www.halang.tech/)
 
 Nexters 13th (2023/06 ~ ing) <br>
 FreeD soft Intern (2023/01 ~ 2023/02) <br>
