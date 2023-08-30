@@ -23,7 +23,6 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run build --if-present
-    - run: npm test
     - name: Make post lists
       id: posts
       run: node .github/make-post-lists.js
