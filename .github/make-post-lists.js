@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const URL = "https://halang.tech";
-const MAX_POSTS = 3;
+const MAX_POSTS = 5;
 
 const readFile = async (dirPath) => {
     return new Promise((resolve, reject) => {

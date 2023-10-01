@@ -11,7 +11,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x, 16.x, 18.x]
+        node-version: [16.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
@@ -26,3 +26,11 @@ jobs:
     - name: Make post lists
       id: posts
       run: node .github/make-post-lists.js
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "lhr4884@naver.com"
+        git config --global user.name "haryung-lee"
+        git add -u
+        git commit -m "Update recent post" || exit 0
+        git push
