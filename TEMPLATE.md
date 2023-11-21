@@ -1,4 +1,5 @@
-Nexters 13th (2023/06 ~ ing) <br>
+NEXTERS 14th CEO (2023/09 ~ ing) <br>
+NEXTERS 13th (2023/07 ~ 2023/08) <br>
 FreeD soft Intern (2023/01 ~ 2023/02) <br>
 Software Maestro 13th (2022/04 ~ 2022/11) <br>
 Incheon National University (2020/03 ~ ing)
