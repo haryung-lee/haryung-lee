@@ -25,8 +25,8 @@ Incheon National University (2020/03 ~ ing)
 [velog](https://velog.io/@lhr4884) 
 [blog](https://www.halang.tech/)
 
+- [[Next 14] 모바일 환경 잘 대응하기 (+등등)](https://halang.tech/web-mobile) - 2023년 11월 7일
 - [[Next 13] Next13 + cloudflare + PWA를 이용한 초기세팅](https://halang.tech/nextjs-with-cloudflare) - 2023년 9월 24일
 - [[넥스터즈] 동아리에서 사용할 팀빌딩 서비스 만들기](https://halang.tech/nexters-moyeomoyeo) - 2023년 8월 22일
 - [[React] Stepper를 직접 구현해보자](https://halang.tech/make-stepper) - 2023년 8월 11일
 - [[SWEA] 9999. 광고 시간 정하기](https://halang.tech/decide-ad-time) - 2023년 8월 3일
-- [알고리즘 문제풀다가 알게된 사실 모음집](https://halang.tech/algonote) - 2023년 7월 31일
