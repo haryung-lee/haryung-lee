@@ -1,3 +1,4 @@
+KAKAO Intern (2024/01 ~ ing) <br>
 NEXTERS 14th CEO (2023/09 ~ ing) <br>
 NEXTERS 13th (2023/07 ~ 2023/08) <br>
 FreeD soft Intern (2023/01 ~ 2023/02) <br>
