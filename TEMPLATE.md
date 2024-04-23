@@ -1,5 +1,6 @@
-kakao Intern (2024/01 ~ 2024/02) <br>
-NEXTERS 14th CEO (2023/09 ~ ing) <br>
+NAVER Cloud Intern (2024/04 ~ ing) <br>
+KAKAO Intern (2024/01 ~ 2024/02) <br>
+NEXTERS 14th CEO (2023/09 ~ 2024/03) <br>
 NEXTERS 13th (2023/07 ~ 2023/08) <br>
 FreeD soft Intern (2023/01 ~ 2023/02) <br>
 Software Maestro 13th (2022/04 ~ 2022/11) <br>
