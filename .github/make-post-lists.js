@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require("fs");
 const path = require("path");
 
-const URL = "https://halang.tech";
+const URL = "https://halang-log.vercel.app";
 const MAX_POSTS = 5;
 
 const readFile = async (dirPath) => {
